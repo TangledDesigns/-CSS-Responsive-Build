@@ -1,6 +1,6 @@
 # CSS-Grid-Responsive-Build
 
-Here's the hosted repository link to the of site I made 
+Here's the hosted repository link of the site I made 
 https://tangleddesigns.github.io/-CSS-Responsive-Build/
 
 YouTube link for the turotial
